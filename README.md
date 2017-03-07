@@ -1,3 +1,3 @@
 # Study
 Code in school
-this is test code
+this is test code.
